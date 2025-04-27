@@ -1,6 +1,5 @@
 # V/sigma ratios for FIRE galaxies
-* All code needed to paper 1 *
-
+All code needed to paper 1  
 UConn Computational Galaxy Formation Work
 - 2D moment maps
 - Spatially resolved v/sigma
